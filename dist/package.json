@@ -1,13 +1,13 @@
 {
     "name": "@clearx/cal-sdk",
     "version": "0.0.1",
-    "description": "A set of JavaScript utils",
+    "description": "Clearx Cal SDK",
     "main": "lib/es5/index.js",
     "module": "lib/es6/index.js",
     "sideEffects": false,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/monsterlessonsacademy/utils.git"
+        "url": "git+https://github.com/ClearBlockchain/cal-sdk.git"
     },
     "files": [
         "lib",
@@ -21,10 +21,10 @@
         "utils",
         "utilities"
     ],
-    "author": "Oleksandr Kocherhin",
+    "author": "Ethan Sayagh",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/monsterlessonsacademy/utils/issues"
+        "url": "https://github.com/ClearBlockchain/cal-sdk/issues"
     },
-    "homepage": "https://github.com/monsterlessonsacademy/utils#readme"
+    "homepage": "https://github.com/ClearBlockchain/cal-sdk#readme"
 }
