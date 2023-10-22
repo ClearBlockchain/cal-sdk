@@ -1,0 +1,12 @@
+{
+  "name": "cal-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
